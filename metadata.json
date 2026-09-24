@@ -1,0 +1,6 @@
+{
+  "name": "Mentalidad Web - MarTech & Data Intelligence",
+  "description": "Plataforma enterprise de ingeniería de medición, analítica avanzada, Google Marketing Platform y cumplimiento Ley 21.719.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
